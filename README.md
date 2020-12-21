@@ -1,6 +1,6 @@
 # Heart Failure Analysis and Prediction
 
-    According to WHO, every year 17.9M people die from heart disease and it is the number one cause of death globally. However, most of this death is preventable by maintaining a healthy lifestyle, having the right diet, and avoiding tobacco. This dataset contains information on the age, tobacco intake. blood pressure, diabetes, and other blood cell level information of patients which can be useful to make inferences and building a predictive model.
+According to WHO, every year 17.9M people die from heart disease and it is the number one cause of death globally. However, most of this death is preventable by maintaining a healthy lifestyle, having the right diet, and avoiding tobacco. This dataset contains information on the age, tobacco intake. blood pressure, diabetes, and other blood cell level information of patients which can be useful to make inferences and building a predictive model.
 
 In this project, my goal is to analyze this dataset and get insights into the impacts of harmful traits. I shall also build a predictive model to detect heart failure early.
 
