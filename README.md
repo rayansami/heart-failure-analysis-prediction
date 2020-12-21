@@ -13,3 +13,4 @@ I spotted that *Logistic Regression* is the best for predicting early heart fail
 
 It was originally developed using Google Collab. Here's the [link](https://colab.research.google.com/drive/1MW8oasAgLFFW0iD2qj6HMhaBaxrnp3dF?usp=sharing).
 
+And [my presentation](https://www.youtube.com/watch?v=2GuBxz4JPO8&feature=youtu.be)
